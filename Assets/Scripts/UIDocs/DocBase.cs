@@ -52,5 +52,9 @@ namespace SmallBiz.UIDoc
                 throw new InvalidOperationException("Root element is not initialized.");
             }
         }
+        public void FieldError(VisualElement uiElement)
+        {
+            
+        }
     }
 }
